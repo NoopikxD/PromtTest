@@ -1,0 +1,9 @@
+C:\Users\Kudro\source\repos\CorpusSearch\CorpusSearch\bin\Debug\CorpusSearch.exe.config
+C:\Users\Kudro\source\repos\CorpusSearch\CorpusSearch\bin\Debug\CorpusSearch.exe
+C:\Users\Kudro\source\repos\CorpusSearch\CorpusSearch\bin\Debug\CorpusSearch.pdb
+C:\Users\Kudro\source\repos\CorpusSearch\CorpusSearch\obj\Debug\CorpusSearch.csproj.CoreCompileInputs.cache
+C:\Users\Kudro\source\repos\CorpusSearch\CorpusSearch\obj\Debug\CorpusSearch.exe
+C:\Users\Kudro\source\repos\CorpusSearch\CorpusSearch\obj\Debug\CorpusSearch.pdb
+C:\Users\Kudro\source\repos\CorpusSearch\CorpusSearch\bin\Debug\CSharpTest.Net.Collections.dll
+C:\Users\Kudro\source\repos\CorpusSearch\CorpusSearch\bin\Debug\CSharpTest.Net.Collections.xml
+C:\Users\Kudro\source\repos\CorpusSearch\CorpusSearch\obj\Debug\CorpusSearch.csproj.CopyComplete
